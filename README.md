@@ -1,3 +1,6 @@
+# 20211112
+将nav_bar.html中的fa-globe修改为fa-language
+
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
 [中文](https://wowchemy.com/zh/)
